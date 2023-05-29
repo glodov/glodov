@@ -61,9 +61,12 @@ My skills on [Pluralsight](https://app.pluralsight.com/profile/yaro) 👉
 
 ## Contacts
 
+🌐 Connect to my social network: [Yaro.Page](https://yaro.page/)
+
 📹 You can check my YouTube channels:
 - [Ukraine Rasta - cannabis human right activism](https://youtube.com/c/UkraineRasta)
 - [Solution and Social - IT and communications](https://www.youtube.com/@solution-n-social)
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/glodov/) ...
+
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/glodov/)
 
 ✌️ Peace & lovE ❤️
