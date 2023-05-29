@@ -1,14 +1,28 @@
 # Hello, my dear reader! 🙌
 
-## About
+## About me
 
-Here is a bit of information about myself in this marvelous life. ❤️  
+Here is a bit of information about me in this marvellous life. ❤️  
 There is no stop in observing the universe, it is a continuous and infinite process.  
 
-My current position is as a Solution Architect and Business Developer. 💻  
-Everything is about data (objects) and processes (flows) and this is what has to be planned, organized, controlled, and led.  
+My current position is as a Social and Solution Architect, author of poems and lectures, human rights activist.  
 
-Building solutions in the chaotic world is my passion. 🧑‍🦰  
+
+### Political views
+Anarchist
+
+> The government cannot give people more than it takes.
+
+There is no need to manage sovereign people. They can manage themselves.
+
+### Religion views
+
+Rastafari.
+
+### Mission
+
+Building solutions in the chaotic world is my passion and the only way to live in harmony in this world. 🧑‍🦰  
+The most crucial solution I discovered and implemented every moment is being truthful with me (myself), and being an authentic soul self.  
 
 Learning from the best teachers in the world and becoming a better person every day. ☀️  
 
@@ -47,6 +61,9 @@ My skills on [Pluralsight](https://app.pluralsight.com/profile/yaro) 👉
 
 ## Contacts
 
+📹 You can check my YouTube channels:
+- [Ukraine Rasta - cannabis human right activism](https://youtube.com/c/UkraineRasta)
+- [Solution and Social - IT and communications](https://www.youtube.com/@solution-n-social)
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/glodov/) ...
 
 ✌️ Peace & lovE ❤️
