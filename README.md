@@ -17,7 +17,7 @@ Wish you follow your mission and be a better person of yourself every day 🙏
 📔 My favorite writer is Red Bradbury, but my favorite books are "Cuckoo Nest" by Ken Kesey and "Atlas Shrugged" by Ayn Rand.  
 
 ## Clubs & Schools:  
-- 👉 mentor at ISAC (International Software Architect Club)
+- 👉 member at ISAC (International Software Architect Club)
 - 👉 member of Usarch (Ukrainian School of Archetypes)
 - 👉 member of YTA (Ukrainian Technical Academy)
 - 👉 lectures at IamPM.club (Solution Architecture)
