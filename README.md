@@ -44,20 +44,20 @@ Wish you follow your mission and be a better person of yourself every day 🙏
 ## Technologies:  
 - Low-code: Outsystems (🎖🎖 certified), Unqork.
 - E-commerce: Magento, Opencart, Shopware, Shopify.
-- Languages: Javascript 🏅, PHP 🏅, Bash, Golang 🏅, C#, Java, Ruby, HTML, SASS, Bootstrap 🏅, Angular 🏅, AngularJS 🏅.
+- Languages: Javascript 🏅, PHP 🏅, Bash, Golang 🏅, C#, Java, Ruby, HTML, SASS, Bootstrap 🏅, React, Angular 🏅, AngularJS 🏅.
 - Databases: MySQL 🏅, MS SQL, PostgreSQL, MongoDB, Redis.
 - Testing: Unit, Integration with Selenium, Performance with flood.io, Monitoring with Postman.
 - OS: macOS, Debian, Ubuntu, Windows, iOS, Android.
 - Clouds: GCP, AWS, DigitalOcean.
 - Analytics: Google Analytics, Google Data Studio
 - Office (Windows/Google/MacOS): Excel/Sheets/Numbers, Word/Pages/Pages, PowerPoint/Slides/Keynotes, Outlook/GMail/Mail.
-- Adobe: XD, Illustrator, Photoshop, Premiere.
+- Adobe: Figma, XD, Illustrator, Photoshop, Premiere.
 - Video: Davince Resolve, iMovie, FinalCut, Adobe Premiere.
 - Audio: GarageBand, Logic Pro.
 
 My skills on [Pluralsight](https://app.pluralsight.com/profile/yaro) 👉
 
-⏳ In IT as Engineer since 2002.
+⏳ In IT as an Engineer since 2002.
 
 ## Contacts
 
